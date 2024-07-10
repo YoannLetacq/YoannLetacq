@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoann Letacq</h1>
 <h3 align="center">In Apprenticeship with Zone01 Rouen Normandie</h3>
 
-- 🌱 I’m currently learning cybersecurity. **Passive information gathering,vulnerability assessment and diverse attacking process**
+- 🌱 I’m currently learning cybersecurity. **Passive information gathering,vulnerability assessment and diverse attacking process.**
 
 - 💬 Ask me about **Rust programming, app' developement or basic cybersecurity concept.**
 
