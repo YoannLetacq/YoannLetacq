@@ -1,4 +1,4 @@
-# 👨‍💻 Yoann Letacq | Dev &  nouveau curieux de la Cyber 🔐🚀🎮
+# 👨‍💻 Yoann Letacq | Mobile Dev & CyberCurieux 🔐🚀🎮
 
 ## 🚀 À propos de moi
 
