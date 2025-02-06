@@ -21,12 +21,6 @@
 
 ![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=yoannletacq&layout=compact&theme=radical)
 
-## 🏆 Stats GitHub
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=yoannletacq&show_icons=true&theme=radical)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yoannletacq&theme=radical)
-
 ## 🔗 Liens & Contact
 
 📌 [Portfolio](https://yoannletacq.dev)  refonte complète en cours 😲
