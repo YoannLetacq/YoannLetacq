@@ -1,7 +1,5 @@
 # 👨‍💻 Yoann Letacq | Dev &  nouveau curieux de la Cyber 🔐🚀🎮
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Yoann%20Letacq&fontSize=35&fontAlignY=35&desc=Ing%C3%A9nieur%20Dev%20%26%20Cybers%C3%A9curit%C3%A9&descSize=20)
-
 ## 🚀 À propos de moi
 
 💡 Passionné par le **développement**, **création de mini-jeux vidéo** et plus récement la **cybersécurité**. 
