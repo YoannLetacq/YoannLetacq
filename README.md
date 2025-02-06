@@ -24,6 +24,7 @@
 ## 🔗 Liens & Contact
 
 📌 [Portfolio](https://yoannletacq.dev)  refonte complète en cours 😲
+
 💼 [LinkedIn](https://linkedin.com/in/yoannletacq)  
 📧 [Email](mailto:yoannletacq0@gmail.com)
 
