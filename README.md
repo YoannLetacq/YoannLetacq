@@ -23,7 +23,7 @@
 
 📌 [Portfolio](https://yoannletacq.dev)  refonte complète en cours 😲
 
-💼 [LinkedIn](https://linkedin.com/in/yoannletacq)  
+💼 [LinkedIn](https://www.linkedin.com/in/yoann-letacq-84330b259)  
 📧 [Email](mailto:yoannletacq0@gmail.com)
 
 ## 🎮 Fun Fact
