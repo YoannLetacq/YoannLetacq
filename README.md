@@ -14,7 +14,6 @@
 
 🔜 À venir :
 
-- 🛠️ Un **Scraper Web en Rust** 🦀 parce que pourquoi pas !
 - ♟️ Un **jeu d'échecs en ligne** random chesscom concurent...
 
 ![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=yoannletacq&layout=compact&theme=radical)
