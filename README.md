@@ -10,7 +10,7 @@
 
 🎯 Actuellement en train de travailler sur :
 
-- ✅ Une **API REST pour une To-Do List en Golang** ouais rien à voir ! 
+- 🛠️ Un **Scraper Web en Rust** 🦀 parce que pourquoi pas !
 
 🔜 À venir :
 
