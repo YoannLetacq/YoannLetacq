@@ -10,11 +10,12 @@
 
 🎯 Actuellement en train de travailler sur :
 
-- 🛠️ Un **Scraper Web en Rust** 🦀 parce que pourquoi pas !
+- **CryptWare** Un .exe a ne pas .exe-cuter. Build en C++. 💻
 
 🔜 À venir :
 
-- ♟️ Un **jeu d'échecs en ligne** random chesscom concurent...
+- 🛠️ Un **Scraper Web en Rust** 🦀 parce que pourquoi pas !
+
 
 ![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=yoannletacq&layout=compact&theme=radical)
 
@@ -29,4 +30,4 @@
 
 🎲 Je développe aussi des **mini-jeux vidéo** pour tester mes skills et m'amuser avec les mécaniques de gameplay !
 
-🚀 Code his way through knowledge path 💻🔥
+🚀 Code his way through knowledge path 🔥
