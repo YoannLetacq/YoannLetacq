@@ -26,4 +26,4 @@
   
 ### 📈 Token used today
 
-![tokscale snake](https://raw.githubusercontent.com/YoannLetacq/snake-tokscale/output/snake.svg)
+[![snake-tokscale animated grid](https://raw.githubusercontent.com/YoannLetacq/snake-tokscale/output/snake.svg)](https://yoannletacq.github.io/snake-tokscale/)
