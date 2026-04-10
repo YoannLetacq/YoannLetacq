@@ -51,4 +51,8 @@
 
 [![snake-tokscale animated grid](https://raw.githubusercontent.com/YoannLetacq/snake-tokscale/output/snake.svg)](https://yoannletacq.github.io/snake-tokscale/)
 
+<picture>
+  <img alt="Crypto Graph Wave" src="./crypto_wave.svg" width="100%" />
+</picture>
+
 </div>
