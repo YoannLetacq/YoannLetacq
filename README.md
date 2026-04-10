@@ -1,4 +1,8 @@
+<div align="center">
+
 ## Hello, it's me Yoann Letacq👋
+
+<img src="./typing.svg" width="600" alt="Typing Animation" />
 
 ✨*Code his life to vibe on it* ✨
 
@@ -18,12 +22,13 @@
 
 ### 🔨 Github contribution                                                                                 
   
- <picture>
-    <source media="(prefers-color-scheme: dark)" 
-  srcset="https://raw.githubusercontent.com/YoannLetacq/YoannLetacq/output/github-snake-dark.svg" />
-    <img alt="contrib-snake" src="https://raw.githubusercontent.com/YoannLetacq/YoannLetacq/output/github-snake.svg" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoannLetacq/YoannLetacq/output/github-snake-dark.svg" />
+  <img alt="contrib-snake" src="https://raw.githubusercontent.com/YoannLetacq/YoannLetacq/output/github-snake.svg" />
+</picture>
   
 ### 📈 Token used today
 
 [![snake-tokscale animated grid](https://raw.githubusercontent.com/YoannLetacq/snake-tokscale/output/snake.svg)](https://yoannletacq.github.io/snake-tokscale/)
+
+</div>
