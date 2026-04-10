@@ -50,6 +50,7 @@
 ### 📈 Token used today
 
 [![snake-tokscale animated grid](https://raw.githubusercontent.com/YoannLetacq/snake-tokscale/output/snake.svg)](https://yoannletacq.github.io/snake-tokscale/)
+🐍 *wanna play with me ? click !* 🐍
 
 ---
 
