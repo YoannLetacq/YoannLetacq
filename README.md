@@ -54,5 +54,4 @@
 <picture>
   <img alt="Crypto Graph Wave" src="./crypto_wave.svg" width="100%" />
 </picture>
-
 </div>
