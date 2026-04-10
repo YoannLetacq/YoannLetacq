@@ -1,0 +1,41 @@
+<svg width="1000" height="150" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <!-- Gradient for Layer 1 -->
+        <linearGradient id="grad1" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#7cf42b" stop-opacity="0.4">
+                <animate attributeName="stop-color" values="#7cf42b;#633f0b;#d5a956;#7cf42b" dur="20s" repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#d450c6" stop-opacity="0.4">
+                <animate attributeName="stop-color" values="#d450c6;#f78cf1;#315b5a;#d450c6" dur="23s" repeatCount="indefinite" />
+            </stop>
+        </linearGradient>
+        
+        <!-- Gradient for Layer 2 -->
+        <linearGradient id="grad2" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#3ed8c7" stop-opacity="0.8">
+                <animate attributeName="stop-color" values="#3ed8c7;#8db656;#6db131;#3ed8c7" dur="18s" repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#fb391c" stop-opacity="0.8">
+                <animate attributeName="stop-color" values="#fb391c;#aebfec;#c7ae55;#fb391c" dur="21s" repeatCount="indefinite" />
+            </stop>
+        </linearGradient>
+
+        <clipPath id="clip1">
+            <path d="M 0 150 L 0.0 124.23641468238804 L 90.9090909090909 92.51311526316854 L 181.8181818181818 124.31784296715125 L 272.72727272727275 73.5331515082614 L 363.6363636363636 74.13428339487851 L 454.5454545454545 79.94852075708593 L 545.4545454545455 67.19250985102971 L 636.3636363636364 122.67062065973337 L 727.2727272727273 99.43608576986173 L 818.1818181818181 90.49342147870857 L 909.090909090909 54.12486058221533 L 1000.0 124.23641468238804 L 1090.909090909091 92.51311526316854 L 1181.8181818181818 124.31784296715125 L 1272.7272727272727 73.5331515082614 L 1363.6363636363635 74.13428339487851 L 1454.5454545454545 79.94852075708593 L 1545.4545454545455 67.19250985102971 L 1636.3636363636365 122.67062065973337 L 1727.2727272727273 99.43608576986173 L 1818.181818181818 90.49342147870857 L 1909.090909090909 54.12486058221533 L 2000.0 124.23641468238804 L 2000 150 Z">
+                <animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="15s" repeatCount="indefinite" />
+            </path>
+        </clipPath>
+
+        <clipPath id="clip2">
+            <path d="M 0 150 L 0.0 123.77364017322195 L 71.42857142857143 122.14160459390581 L 142.85714285714286 91.42158297612062 L 214.28571428571428 134.96724288161892 L 285.7142857142857 133.03829814570915 L 357.14285714285717 117.13726471066283 L 428.57142857142856 110.01921766996797 L 500.0 127.24699020986164 L 571.4285714285714 109.89988998999321 L 642.8571428571429 104.65533597494198 L 714.2857142857143 124.26116541019962 L 785.7142857142858 123.9741247654634 L 857.1428571428571 124.77579048351733 L 928.5714285714286 107.22655735310761 L 1000.0 123.77364017322195 L 1071.4285714285713 122.14160459390581 L 1142.857142857143 91.42158297612062 L 1214.2857142857142 134.96724288161892 L 1285.7142857142858 133.03829814570915 L 1357.142857142857 117.13726471066283 L 1428.5714285714284 110.01921766996797 L 1500.0 127.24699020986164 L 1571.4285714285716 109.89988998999321 L 1642.857142857143 104.65533597494198 L 1714.2857142857142 124.26116541019962 L 1785.7142857142858 123.9741247654634 L 1857.142857142857 124.77579048351733 L 1928.5714285714284 107.22655735310761 L 2000.0 123.77364017322195 L 2000 150 Z">
+                <animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="25s" repeatCount="indefinite" />
+            </path>
+        </clipPath>
+    </defs>
+
+    <!-- Background Layer -->
+    <rect width="1000" height="150" fill="url(#grad1)" clip-path="url(#clip1)" />
+
+    <!-- Foreground Layer -->
+    <rect width="1000" height="150" fill="url(#grad2)" clip-path="url(#clip2)" />
+</svg>
