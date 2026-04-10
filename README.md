@@ -12,8 +12,6 @@
 
 <br>
 
-<br>
-
 ### 🤖 AI Usage
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/YoannLetacq/svg?sort=cost&compact=1)](https://tokscale.ai/u/YoannLetacq)
@@ -21,8 +19,6 @@
 <br>
 
 ---
-
-<br>
 
 ### 🛠️ Tech Stack
 
