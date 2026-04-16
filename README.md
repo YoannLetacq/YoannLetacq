@@ -14,8 +14,7 @@
 
 ### 🤖 AI Usage
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/YoannLetacq/svg?sort=cost&compact=1)](https://tokscale.ai/u/YoannLetacq)
-
+[![Tokscale Stats](https://tokscale.ai/api/embed/YoannLetacq/svg?view=3d&sort=cost&compact=1)](https://tokscale.ai/u/YoannLetacq)
 <br>
 
 ---
