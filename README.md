@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Have you ever tasted lychees 👋
-
+*YoannLetacq*
 <br>
 
 <img src="./typing.svg" width="600" alt="Typing Animation" />
