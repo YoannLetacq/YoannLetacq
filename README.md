@@ -24,7 +24,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
 ![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![ClaudeGoat](https://img.shields.io/badge/Dream%20Bigger-Build%20Smarter-059669?style=for-the-badge&logo=anthropic&logoColor=000000&labelColor=FFD700)
