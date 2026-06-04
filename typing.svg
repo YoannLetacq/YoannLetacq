@@ -339,6 +339,10 @@
   <!-- Frame -->
   <rect class="frame" x="4" y="4" width="592" height="192" rx="10" />
 
+  <!-- Title bar background -->
+  <path d="M4,48 L4,14 Q4,4 14,4 L586,4 Q596,4 596,14 L596,48 Z" fill="#161B22" />
+  <rect x="4" y="47" width="592" height="2" fill="#161B22" />
+
   <!-- Title bar dots -->
   <circle cx="24" cy="26" r="6" fill="#ff5e55" />
   <circle cx="44" cy="26" r="6" fill="#ffba3a" />
