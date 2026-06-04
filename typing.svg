@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
   <style>
     @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&amp;display=swap");
-    .frame { fill: #0D1117; stroke: #161B22; stroke-width: 1; }
+    .frame { fill: #0D1117; stroke: #23292F; stroke-width: 2; }
     .titlebar-text { font-family: "Fira Code", "Courier New", monospace; font-size: 13px; fill: #565f78; }
     .text-container { font-family: "Fira Code", "Courier New", monospace; font-size: 24px; font-weight: 700; }
     .prompt { fill: #f7768e; }
@@ -352,7 +352,7 @@
   <text class="titlebar-text" x="300" y="30" text-anchor="middle">terminal — @YoannLetacq</text>
 
   <!-- Separator under title bar -->
-  <line x1="4" y1="48" x2="596" y2="48" stroke="#161B22" stroke-width="1" />
+  <line x1="4" y1="48" x2="596" y2="48" stroke="#23292F" stroke-width="2" />
 
   <!-- Typing line -->
   <text class="text-container" y="115">
