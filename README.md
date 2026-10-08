@@ -14,7 +14,8 @@
 
 ### 🤖 AI Usage
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/YoannLetacq/svg?sort=cost&template=terminal&color=pink&tokens=full&cost=full)](https://tokscale.ai/u/YoannLetacq)
+[![Tokscale Stats](https://tokscale.ai/api/embed/YoannLetacq/svg?template=terminal&color=purple&tokens=full&cost=full)](https://tokscale.ai/u/YoannLetacq)
+
 ---
 
 ### 🛠️ Tech Stack
